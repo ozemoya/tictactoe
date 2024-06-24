@@ -20,7 +20,7 @@ html {
 body {
   background: radial-gradient(
       circle at top,
-      rgba(241, 210, 70, 0.98),
+      rgba(255, 143, 45, 0.98),
       rgba(250, 176, 103, 0.87)
     ),
     url('bg-pattern-dark.png');
@@ -41,7 +41,7 @@ header img {
 }
 
 h1 {
-  font-family: 'Caprasimo', cursive;
+  font-family: 'Papyrus', cursive;
   font-size: 3rem;
   margin: 0 auto 3rem auto;
   color: #3f3b00;
